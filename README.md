@@ -54,6 +54,8 @@ The system uses a multi-agent architecture with the following components:
 - PostgreSQL
 - Redis
 - Docker (optional)
+- 
+![AI for Elderly Care](image.png)
 
 ### Backend Setup
 ```bash
